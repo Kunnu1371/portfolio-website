@@ -1,6 +1,6 @@
 # A responsive portfolio website with HTML, CSS, Javascript
 
-Here is a link to  [my portfolio](https://kunal-portfolio.netlify.app/)
+Here is a link to  [my portfolio](https://kunnu1371.netlify.app/)
 
 <br>
 
